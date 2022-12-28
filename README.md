@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylor-hinote&label=Profile%20views&color=0e75b6&style=flat" alt="taylor-hinote" /> </p>
 
-- 🔭 I’m currently working on **PHP API Framework**
+- 🔭 I’m currently working on **PHP API Framework** (Private Repo ATM Sorry)
 
 <!--
 - 👨‍💻 All of my projects are available at [www.taylorhinote.com](www.taylorhinote.com)
