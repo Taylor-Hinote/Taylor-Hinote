@@ -13,4 +13,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taylor-hinote&show_icons=true&locale=en" alt="taylor-hinote" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taylor-hinote&show_icons=true&locale=en" alt="taylor-hinote" /></p>
+ -->
