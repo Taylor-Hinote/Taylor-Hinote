@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylor-hinote&label=Profile%20views&color=0e75b6&style=flat" alt="taylor-hinote" /> </p>
 
-- 🔭 I’m currently working on **Learing All things react and similar while updating company website**
-
-<!--
-- 👨‍💻 All of my projects are available at [www.taylorhinote.com](www.taylorhinote.com)
--->
-- 📫 How to reach me **hinotetaylor@gmail.com**
 
 
 
